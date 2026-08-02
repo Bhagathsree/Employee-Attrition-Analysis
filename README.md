@@ -147,8 +147,9 @@ The project includes the following visualizations:
 ```text
 Employee-Attrition-Analysis/
 │
-├── Employee_Attrition_Analysis.ipynb
-├── IBM_Employee_Attrition.csv
+├── Employee_Attrition_Analysis_FINAL_PROJECT.ipynb
+├── IBM_HR_Analytics_Employee_Attrition.csv
+├── Project_Report.pdf
 ├── README.md
 ```
 
