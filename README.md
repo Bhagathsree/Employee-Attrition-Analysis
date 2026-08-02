@@ -153,7 +153,6 @@ Employee-Attrition-Analysis/
 
 ---
 
-
 ## 📚 Future Scope
 
 - Develop a Machine Learning model to predict employee attrition.
